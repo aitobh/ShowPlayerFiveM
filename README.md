@@ -1,7 +1,7 @@
 # Show Player by hecker 🕊#0001 | Version 1.0.5 BÊTA
 ![B0b](https://cdn.aliverp.ovh/bob/update-1.0.5.png)
 
-> A resource that detects different types of cheating
+> Un bot qui permet d'affichier le nombre de joueur de votre serveur !
 
 ## About
 ```>> Bob est un bot qui permet d'affichier dans son status, le nombre de joueurs qu'il y a sur votre serveur.
