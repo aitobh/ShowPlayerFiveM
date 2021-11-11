@@ -8,6 +8,7 @@
 ```>>> ⚠️ Attention cela reste une bêta il peut y avoir des bugs.```
 
 ## Requirements
+> Merci de bien installer les prérequis !
     <p><img width="20" src="https://www.developpez.net/forums/attachments/p294178d1/a/a/a">&nbsp;
         <a href="https://nodejs.org">
             - NodeJS | [Web]
