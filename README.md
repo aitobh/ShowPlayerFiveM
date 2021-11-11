@@ -15,6 +15,9 @@ Bob est un bot qui permet d'affichier dans son status, le nombre de joueurs qu'i
 - NodeJS >> [GitHub](https://nodejs.org)
 - DiscordJS >> [js.org](https://discord.js.org) || [Github](https://github.com/discordjs/discord.js/)
 
+## 🔨 Installation
+```Mettre la Releases dans un répertoire, puis la décompresser. Rendez-vous dans /ShowPlayerFiveM/node_modules/ puis décompresser le fichier "node_modules.rar". Retourner dans le répertoire d'entrée (ShowPlayerFiveM) puis modifié le "index.js", Ligne 6 inséré le Token de votre BOT Discord ligne 36 inséré l'IP et le Port de votre serveur.```
+
 ## 📥Download
 Télécharger la dernière version : [GitHub Releases](https://github.com/ERROR666exe/ShowPlayerFiveM/releases)
 
