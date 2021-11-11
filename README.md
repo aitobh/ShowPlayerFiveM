@@ -4,8 +4,8 @@
 > Un bot qui permet d'affichier le nombre de joueur de votre serveur !
 
 ## 📍 About
->> Bob est un bot qui permet d'affichier dans son status, le nombre de joueurs qu'il y a sur votre serveur.
->>> ⚠️ Attention cela reste une bêta il peut y avoir des bugs.
+Bob est un bot qui permet d'affichier dans son status, le nombre de joueurs qu'il y a sur votre serveur.
+ ⚠️ Attention cela reste une bêta il peut y avoir des bugs.
 
 ## ❗ Requirements
 > Merci de bien installer les prérequis !
